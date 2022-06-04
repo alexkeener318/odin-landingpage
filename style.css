@@ -144,8 +144,9 @@ h3 {
 
 .bottom {
     display: flex;
-    margin: 50px 100px;
+    margin: 100px 200px;
     padding: 0px 100px;
+    border-radius: 16px;
     background-color: #3882f6;
     align-items: center;
 }
