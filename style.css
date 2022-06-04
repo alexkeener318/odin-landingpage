@@ -88,3 +88,36 @@ button {
     color: white;
     align-items: top;
 }
+
+h3 {
+    text-align: center;
+    color:#1f2937;
+    font-weight: 900;
+    font-size: 36px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 64px;
+}
+
+.box {
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 175px;
+    color: #838385;
+}
+
+.square {
+    justify-content: center;
+    align-items: center;
+    border-style: solid;
+    border-radius: 18px;
+    border-width: 4px;
+    border-color: #3882f6;
+    height: 175px;
+    width: 175px;
+}
