@@ -170,3 +170,13 @@ h6 {
     margin: 0px 0px 0px auto;
     border-color: white;
 }
+
+.footer {
+    background-color: #1f2937;
+    height: 80px;
+    color: #F9FAF8;
+    display: flex;
+    padding: 0px 200px;
+    justify-content: center;
+    align-items: center;
+}
