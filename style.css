@@ -97,10 +97,10 @@ h3 {
     justify-content: center;
     gap: 64px;
     margin-bottom: 64px;
+    flex-wrap: wrap;
 }
 
 .box {
-    flex-wrap: wrap;
     display: flex;
     flex-direction: column;
     text-align: center;
